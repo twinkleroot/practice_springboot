@@ -2,14 +2,17 @@ package com.twinkleroot.testdemo;
 
 import com.twinkleroot.testdemo.sample.SampleController;
 import com.twinkleroot.testdemo.sample.SampleService;
+import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.boot.test.rule.OutputCapture;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
@@ -22,6 +25,9 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 // @WebMvcTest는 MockMvc로 테스트 해야한다.
 @WebMvcTest(SampleController.class)
 public class ApplicationTests {
+
+    @Rule
+    public OutputCapture outputCapture = new OutputCapture();
 
     // 테스트가 너무 크기 때문에 @MockBean을 사용해서 쪼갤 수 있음.
     // ApplicationContext에서 SampleService bean을 여기서 만들어준 bean으로 교체한다.
@@ -40,6 +46,10 @@ public class ApplicationTests {
         // get(), content() 이 static 메소드가 자동완성 되지 않고 따로 import 시켜줘야 하기 때문에 MockMvc는 좀 불편한다.
         mockMvc.perform(get("/hello"))
                 .andExpect(content().string("hello twinkleroot"));
+
+        assertThat(outputCapture.toString())
+                .contains("heesung papa")
+                .contains("jungmo");
     }
 }
 
