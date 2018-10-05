@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd385ba-c277-42f3-a05f-1ebe40ed1772" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/testdemo/sample/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/testdemo/sample/SampleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/springmvcdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/src/main/java/com/twinkleroot/demospringmvc/DemoSpringMvcApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/src/main/java/com/twinkleroot/demospringmvc/user/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/src/test/java/com/twinkleroot/demospringmvc/DemoSpringMvcApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/src/test/java/com/twinkleroot/demospringmvc/user/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,7 +28,7 @@
     <session id="690442806">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -51,11 +62,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="714">
+              <caret line="42" column="12" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="42" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -73,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+            <state relative-caret-position="156">
+              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/testdemo/sample/SampleController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -341,9 +352,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApplicationTests_hello - 2018.10.04 at 17h 57m 03s.xml">
-      <configuration name="ApplicationTests.hello" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ApplicationTests_hello - 2018.10.05 at 13h 26m 20s.xml">
       <configuration name="ApplicationTests.hello" configurationId="JUnit" />
     </history-entry>
@@ -371,6 +379,9 @@
     <history-entry file="ApplicationTests_hello - 2018.10.05 at 14h 10m 43s.xml">
       <configuration name="ApplicationTests.hello" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ApplicationTests_hello - 2018.10.05 at 14h 11m 12s.xml">
+      <configuration name="ApplicationTests.hello" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
@@ -382,7 +393,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32853025" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32853025" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -395,7 +406,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.2979744" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="4" visible="true" weight="0.24147122" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -413,17 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/testdemo/sample/SampleController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -443,11 +447,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        <state relative-caret-position="156">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="12" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="42" selection-end-column="12" />
         </state>
       </provider>
     </entry>
