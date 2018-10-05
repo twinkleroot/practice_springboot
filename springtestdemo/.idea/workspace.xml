@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd385ba-c277-42f3-a05f-1ebe40ed1772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,13 +25,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="549" />
+          <entry key="java" value="655" />
           <entry key="xml" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="549" />
+          <entry key="JAVA" value="655" />
           <entry key="XML" value="18" />
         </counts>
       </usages-collector>
@@ -77,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            <state relative-caret-position="493">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,6 +118,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hello</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -273,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ApplicationTests">
+  <component name="RunManager" selected="JUnit.ApplicationTests.hello">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.twinkleroot.testdemo.Application" />
       <module name="springtestdemo" />
@@ -324,8 +327,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ApplicationTests" />
         <item itemvalue="JUnit.ApplicationTests.hello" />
+        <item itemvalue="JUnit.ApplicationTests" />
         <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
@@ -352,6 +355,9 @@
     </history-entry>
     <history-entry file="ApplicationTests_hello - 2018.10.05 at 13h 26m 20s.xml">
       <configuration name="ApplicationTests.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTests - 2018.10.05 at 13h 27m 06s.xml">
+      <configuration name="ApplicationTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -426,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/twinkleroot/testdemo/ApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        <state relative-caret-position="493">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
