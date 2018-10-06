@@ -28,19 +28,4 @@ public class UserControllerTest {
                 .andExpect(content().string("hello"));
     }
 
-    // ContentNegotiationViewResolver : 요청의 accept 헤더에 따라 응답이 달라지게 한다.
-    // accept 헤더 : 브라우저가/서버가 어떠한 타입의 본문의 응답을 해주길 원한다는 표시
-
-    @Test
-    public void createUser_JSON() throws Exception {
-        String userJson = "{\"username\":\"jungmo\", \"password\":\"123\"}";
-        mockMvc.perform(post("/users/create")
-                .contentType(MediaType.APPLICATION_JSON_UTF8)
-                .accept(MediaType.APPLICATION_XML)
-                .content(userJson))
-                .andExpect(status().isOk())
-                .andExpect(xpath("User/username").string("jungmo"))
-                .andExpect(xpath("User/password").string("123"));
-    }
-
 }
