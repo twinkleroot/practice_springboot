@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b86798-072e-4ae6-b9d7-0e354bcc0ae9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Node2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Tree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/springbootsecurity.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/AcoountRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/account/AccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/account/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/my.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/test/java/com/twinkleroot/springbootsecurity/HomeControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/RegisterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/gugudan/RegisterMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversalMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Year2007Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/someday2007/Year2007Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootjpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootjpa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootjpa/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootjpa/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootsecurity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootsecurity/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,7 +16,7 @@
     <session id="1671977966">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
@@ -362,7 +332,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32949087" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32949087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30643612" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
