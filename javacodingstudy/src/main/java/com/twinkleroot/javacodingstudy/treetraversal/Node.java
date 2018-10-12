@@ -1,4 +1,4 @@
-package com.twinkleroot.javacodingstudy;
+package com.twinkleroot.javacodingstudy.treetraversal;
 
 public class Node {
     public char data;

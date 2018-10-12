@@ -1,4 +1,4 @@
-package com.twinkleroot.javacodingstudy;
+package com.twinkleroot.javacodingstudy.treetraversal;
 
 import java.io.BufferedReader;
 import java.io.IOException;

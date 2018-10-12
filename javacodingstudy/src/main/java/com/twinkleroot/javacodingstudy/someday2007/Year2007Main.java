@@ -1,4 +1,4 @@
-package com.twinkleroot.javacodingstudy;
+package com.twinkleroot.javacodingstudy.someday2007;
 
 import java.util.Scanner;
 

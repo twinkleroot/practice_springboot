@@ -1,4 +1,4 @@
-package com.twinkleroot.javacodingstudy;
+package com.twinkleroot.javacodingstudy.gugudan;
 
 import java.util.Scanner;
 

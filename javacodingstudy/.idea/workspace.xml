@@ -2,16 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b86798-072e-4ae6-b9d7-0e354bcc0ae9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/RegisterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Year2007Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Node2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Tree2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/springbootsecurity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/AcoountRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/account/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/account/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/my.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/test/java/com/twinkleroot/springbootsecurity/HomeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/RegisterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/gugudan/RegisterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Year2007Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/someday2007/Year2007Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootjpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootjpa/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootjpa/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootjpa/target/classes/application.properties" afterDir="false" />
     </list>
@@ -27,103 +46,37 @@
     <session id="1671977966">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6660" />
+          <entry key="java" value="7445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6660" />
+          <entry key="JAVA" value="7445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Year2007Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversalMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-865" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="e#178#179#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -159,6 +112,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Node2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Tree2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/gugudan/RegisterMain.java" />
       </list>
     </option>
   </component>
@@ -236,6 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,8 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeTraversal4">
+  <component name="RunManager" selected="Application.TreeTraversal5">
     <configuration name="TreeTraversal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.twinkleroot.javacodingstudy.TreeTraversal2" />
       <module name="javacodingstudy" />
@@ -337,6 +296,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeTraversal5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twinkleroot.javacodingstudy.TreeTraversal5" />
+      <module name="javacodingstudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twinkleroot.javacodingstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TreeTraversalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.twinkleroot.javacodingstudy.TreeTraversalMain" />
       <module name="javacodingstudy" />
@@ -350,33 +322,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2007Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.twinkleroot.javacodingstudy.Year2007Main" />
-      <module name="javacodingstudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.twinkleroot.javacodingstudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Year2007Main" />
       <item itemvalue="Application.TreeTraversalMain" />
       <item itemvalue="Application.TreeTraversal2" />
       <item itemvalue="Application.TreeTraversal3" />
       <item itemvalue="Application.TreeTraversal4" />
+      <item itemvalue="Application.TreeTraversal5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeTraversal5" />
         <item itemvalue="Application.TreeTraversal4" />
         <item itemvalue="Application.TreeTraversal3" />
         <item itemvalue="Application.TreeTraversal2" />
         <item itemvalue="Application.TreeTraversalMain" />
-        <item itemvalue="Application.Year2007Main" />
       </list>
     </recent_temporary>
   </component>
@@ -397,14 +356,10 @@
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32949087" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32949087" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32949087" />
@@ -412,41 +367,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32949087" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32949087" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/RegisterMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversalMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-865" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal3.java">
@@ -456,37 +396,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/someday2007/Year2007Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversalMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Year2007Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Tree2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="595">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/Node2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/gugudan/RegisterMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/javacodingstudy/treetraversal/TreeTraversal4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

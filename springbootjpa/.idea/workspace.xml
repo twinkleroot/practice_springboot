@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58cc484b-50d8-40be-b56c-e1b777210519" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/RegisterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversal4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/TreeTraversalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacodingstudy/src/main/java/com/twinkleroot/javacodingstudy/Year2007Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/springbootsecurity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/java/com/twinkleroot/springbootsecurity/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/main/resources/templates/my.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootsecurity/src/test/java/com/twinkleroot/springbootsecurity/HomeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javacodingstudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javacodingstudy/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
@@ -27,23 +30,24 @@
     <session id="-952889292">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="263" />
-          <entry key="properties" value="157" />
+          <entry key="properties" value="176" />
           <entry key="xml" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="263" />
-          <entry key="Properties" value="157" />
+          <entry key="Properties" value="176" />
           <entry key="XML" value="61" />
         </counts>
       </usages-collector>
@@ -64,11 +68,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+            <state relative-caret-position="855">
+              <caret line="54" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="54" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -76,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/springbootjpa/SpringbootjpaApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="102">
               <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/springbootjpa/account/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
+            <state relative-caret-position="629">
               <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -122,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -367,13 +371,13 @@
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14498934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32949087" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32949087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,12 +413,26 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/twinkleroot/springbootjpa/account/AccountRepositoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/springbootjpa/SpringbootjpaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="102">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/springbootjpa/account/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -426,41 +444,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/springbootjpa/account/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/twinkleroot/springbootjpa/account/AccountRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
-            <element signature="e#1209#1210#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/twinkleroot/springbootjpa/SpringbootjpaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="54" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="54" selection-end-column="12" />
         </state>
       </provider>
     </entry>
